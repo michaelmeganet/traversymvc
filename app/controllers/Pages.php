@@ -6,7 +6,7 @@
  * Time: 12:00
  */
 
-class Pages {
+class Pages extends Controller {
     public function __construct() {}
 
     public function index() {
