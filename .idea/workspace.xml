@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09dadb63-8bbc-4630-8b96-c033fa068de6" name="Default" comment="Database class part 2 with Post model as test">
+    <list default="true" id="09dadb63-8bbc-4630-8b96-c033fa068de6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/config/config.php" afterPath="$PROJECT_DIR$/app/config/config.php" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/Pages.php" afterPath="$PROJECT_DIR$/app/controllers/Pages.php" />
-      <change beforePath="$PROJECT_DIR$/app/models/Post.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/index.php" afterPath="$PROJECT_DIR$/app/views/pages/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -208,7 +204,7 @@
       <updated>1513641731107</updated>
       <workItem from="1513641732341" duration="14677000" />
       <workItem from="1513807148171" duration="839000" />
-      <workItem from="1513867092570" duration="689000" />
+      <workItem from="1513867092570" duration="810000" />
     </task>
     <task id="LOCAL-00001" summary="Database class part 1 with Post model as test">
       <created>1513804061419</created>
@@ -224,11 +220,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513806315444</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Cleanup MVC Framework complete">
+      <created>1513867808323</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1513867808323</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16205000" />
+    <option name="totallyTimeSpent" value="16326000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="203" y="0" width="1508" height="1014" extended-state="0" />
@@ -264,7 +267,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Database class part 1 with Post model as test" />
     <MESSAGE value="Database class part 2 with Post model as test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Database class part 2 with Post model as test" />
+    <MESSAGE value="Cleanup MVC Framework complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleanup MVC Framework complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
